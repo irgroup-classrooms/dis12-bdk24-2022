@@ -19,4 +19,4 @@ Sollten Sie Fehler finden, informieren Sie mich bitte umgehend, indem Sie z.B. e
 | Date       | Topic                                             | Resources      |
 |------------|---------------------------------------------------|----------------|
 | 2022-03-31 | 00-Organisatorisches                              | [slides](slides/00-syllabus.pdf) |
-| 2021-03-31 | 01-Einführung und Motivation                      | [slides](slides/01-introduction.pdf) [exercise](exercise/01-Introduction-exercise.pdf)  |
+| 2021-03-31 | 01-Einführung und Motivation                      | [slides](slides/01-introduction.pdf) / [exercise](exercise/01-Introduction-exercise.pdf)  |
