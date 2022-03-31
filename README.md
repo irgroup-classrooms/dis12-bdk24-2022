@@ -14,6 +14,8 @@ Die Vorlesungen und Übungen werden jeweils über Zoom angeboten. Das Passwort i
 
 ## Folien und Video-Archiv
 
+Alles vorhandenen Videos zu den Veranstaltungen finden Sie auf [Sciebo](https://th-koeln.sciebo.de/s/CG7vMfpJBoAaTFT), das Passwort ist analog zu den Zoom-Räumen. 
+
 Sollten Sie Fehler finden, informieren Sie mich bitte umgehend, indem Sie z.B. ein [neues Issue](https://github.com/irgroup/dis12-bdk24-2022/issues) anlegen.
 
 | Date       | Topic                                             | Resources      |
