@@ -8,10 +8,6 @@ Die Vorlesungen und Übungen werden jeweils über Zoom angeboten. Das Passwort i
 - https://th-koeln.zoom.us/j/86574223746 (BdK-Übung)
 - https://th-koeln.zoom.us/j/88070614267 (DIS-Übung)
 
-## Ankündigungen
-
-- Die Veranstaltung startet am 31.3.2022.
-
 ## Folien und Video-Archiv
 
 Alles vorhandenen Videos zu den Veranstaltungen finden Sie auf [Sciebo](https://th-koeln.sciebo.de/s/CG7vMfpJBoAaTFT), das Passwort ist analog zu den Zoom-Räumen. 
