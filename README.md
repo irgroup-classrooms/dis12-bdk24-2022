@@ -19,4 +19,4 @@ Sollten Sie Fehler finden, informieren Sie mich bitte umgehend, indem Sie z.B. e
 | 2022-03-31 | 00-Organisatorisches                              | [slides](slides/00-syllabus.pdf) |
 | 2021-03-31 | 01-Einführung und Motivation                      | [slides](slides/01-introduction.pdf) / [exercise](exercise/01-Introduction-exercise.pdf)  |
 | 2022-04-07 | 02-Boolean Retrieval (updated)                    | [slides](slides/02-boolean.pdf) / [exercise](exercise/02-boolean-exercise.pdf) |
-| 2022-04-14 | 03-TF-IDF                                         | [slides](slides/03-tfidf.pdf) |
+| 2022-04-14 | 03-TF-IDF                                         | [slides](slides/03-tfidf.pdf) / [exercise](exercise/03-tfidf-exercise.pdf)| 
