@@ -2,15 +2,11 @@
 
 ## Zeitplan und Materialien
 
-Die Vorlesungen und Übungen werden jeweils über Zoom angeboten. Das Passwort ist die Postleitzahl der TH Köln am Standort Südstadt in der Claudiusstraße. 
-
-- https://th-koeln.zoom.us/j/83172678759 (Vorlesung für beide Studiengänge) 
-- https://th-koeln.zoom.us/j/86574223746 (BdK-Übung)
-- https://th-koeln.zoom.us/j/88070614267 (DIS-Übung)
+Ab dem 21. April 2022 werden die Vorlesungen und Übungen vor Ort in der Claudiusstr. angeboten. Die Räume entnehmen Sie bitte dem [IWS-Vorlesungsverzeichnis](https://www.iws.th-koeln.de/vv/index.php).
 
 ## Folien und Video-Archiv
 
-Alles vorhandenen Videos zu den Veranstaltungen finden Sie auf [Sciebo](https://th-koeln.sciebo.de/s/CG7vMfpJBoAaTFT), das Passwort ist analog zu den Zoom-Räumen. 
+Alles vorhandenen Videos zu den Veranstaltungen finden Sie auf [Sciebo](https://th-koeln.sciebo.de/s/CG7vMfpJBoAaTFT), das Passwort ist analog zu den Zoom-Räumen. Eine Aufzeichnung der Veranstaltungen ab dem 21. April kann nicht sichergestellt werden.
 
 Sollten Sie Fehler finden, informieren Sie mich bitte umgehend, indem Sie z.B. ein [neues Issue](https://github.com/irgroup/dis12-bdk24-2022/issues) anlegen.
 
@@ -20,3 +16,4 @@ Sollten Sie Fehler finden, informieren Sie mich bitte umgehend, indem Sie z.B. e
 | 2021-03-31 | 01-Einführung und Motivation                      | [slides](slides/01-introduction.pdf) / [exercise](exercise/01-Introduction-exercise.pdf)  |
 | 2022-04-07 | 02-Boolean Retrieval (updated)                    | [slides](slides/02-boolean.pdf) / [exercise](exercise/02-boolean-exercise.pdf) |
 | 2022-04-14 | 03-TF-IDF                                         | [slides](slides/03-tfidf.pdf) / [exercise](exercise/03-tfidf-exercise.pdf)| 
+| 2022-04-12 | 03-Ranking mit dem Vector Space Model             | [slides](slides/04-ranking.pdf) / exercise |
