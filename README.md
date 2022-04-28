@@ -13,8 +13,9 @@ Sollten Sie Fehler finden, informieren Sie mich bitte umgehend, indem Sie z.B. e
 | Date       | Topic                                             | Resources      |
 |------------|---------------------------------------------------|----------------|
 | 2022-03-31 | 00-Organisatorisches                              | [slides](slides/00-syllabus.pdf) |
+<<<<<<< HEAD
 | 2021-03-31 | 01-Einführung und Motivation                      | [slides](slides/01-introduction.pdf) / [video](https://th-koeln.sciebo.de/s/CG7vMfpJBoAaTFT / [exercise](exercise/01-Introduction-exercise.pdf)  |
 | 2022-04-07 | 02-Boolean Retrieval (updated)                    | [slides](slides/02-boolean.pdf) / [video](https://th-koeln.sciebo.de/s/CG7vMfpJBoAaTFT / [exercise](exercise/02-boolean-exercise.pdf) |
 | 2022-04-14 | 03-TF-IDF                                         | [slides](slides/03-tfidf.pdf) / [video](https://th-koeln.sciebo.de/s/CG7vMfpJBoAaTFT / [exercise](exercise/03-tfidf-exercise.pdf)| 
 | 2022-04-21 | 04-Ranking mit dem Vector Space Model             | [slides](slides/04-ranking.pdf) / [video (old)](https://www.youtube.com/watch?v=b1JanvFBlWU)  / [exercise](exercise/04-ranking-exercise.pdf) |
-| 2022-04-28 | 05-Indexierung                                    | [slides](slides/05-index.pdf) / [video (old)](https://youtu.be/GdU5SN7q0G0) exercise |
+| 2022-04-28 | 05-Indexierung                                    | [slides](slides/05-index.pdf) / [video (old)](https://youtu.be/GdU5SN7q0G0) / [exercise](exercise/05-index-exercise.pdf)  |
