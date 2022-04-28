@@ -6,7 +6,7 @@ Ab dem 21. April 2022 werden die Vorlesungen und Übungen vor Ort in der Claudiu
 
 ## Quizes in Moodle
 
-Sie finden die alle 2-3 Wochen ein neues Online-Quiz in Moodle: https://elearning.iws.th-koeln.de/moodle/course/view.php?id=1494
+Sie finden die alle 2-3 Wochen ein neues Online-Quiz in Moodle: https://elearning.iws.th-koeln.de/moodle/course/view.php?id=1798
 
 ## Folien und Video-Archiv
 
