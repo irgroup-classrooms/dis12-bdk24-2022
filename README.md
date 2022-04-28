@@ -16,4 +16,5 @@ Sollten Sie Fehler finden, informieren Sie mich bitte umgehend, indem Sie z.B. e
 | 2021-03-31 | 01-Einführung und Motivation                      | [slides](slides/01-introduction.pdf) / [exercise](exercise/01-Introduction-exercise.pdf)  |
 | 2022-04-07 | 02-Boolean Retrieval (updated)                    | [slides](slides/02-boolean.pdf) / [exercise](exercise/02-boolean-exercise.pdf) |
 | 2022-04-14 | 03-TF-IDF                                         | [slides](slides/03-tfidf.pdf) / [exercise](exercise/03-tfidf-exercise.pdf)| 
-| 2022-04-12 | 04-Ranking mit dem Vector Space Model             | [slides](slides/04-ranking.pdf) / [exercise](exercise/04-ranking-exercise.pdf) |
+| 2022-04-21 | 04-Ranking mit dem Vector Space Model             | [slides](slides/04-ranking.pdf) / [exercise](exercise/04-ranking-exercise.pdf) |
+| 2022-04-28 | 05–Index-Konstruktion                             | [slides](slides/05-index.pdf) / [exercise](exercise/05-index-exercise.pdf) |
