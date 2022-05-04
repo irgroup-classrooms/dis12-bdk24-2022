@@ -22,3 +22,4 @@ Sollten Sie Fehler finden, informieren Sie mich bitte umgehend, indem Sie z.B. e
 | 2022-04-14 | 03-TF-IDF                                         | [slides](slides/03-tfidf.pdf) / [video](https://th-koeln.sciebo.de/s/CG7vMfpJBoAaTFT) / [exercise](exercise/03-tfidf-exercise.pdf)| 
 | 2022-04-21 | 04-Ranking mit dem Vector Space Model             | [slides](slides/04-ranking.pdf) / [video (old)](https://www.youtube.com/watch?v=b1JanvFBlWU)  / [exercise](exercise/04-ranking-exercise.pdf) / [Beispiel](exercise/04-ranking-vektor.pdf) |
 | 2022-04-28 | 05-Indexierung                                    | [slides](slides/05-index.pdf) / [video (old)](https://youtu.be/GdU5SN7q0G0) / [exercise](exercise/05-index-exercise.pdf)  |
+| 2022-05-05 | 06-Evaluierung                                    | [slides](slides/06-evaluation.pdf) / [video (old)](https://youtu.be/DDfa685DFfw) / [exercise](exercise/06-evaluation-exercise.pdf)  |
