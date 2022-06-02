@@ -23,3 +23,4 @@ Sollten Sie Fehler finden, informieren Sie mich bitte umgehend, indem Sie z.B. e
 | 2022-04-21 | 04-Ranking mit dem Vector Space Model             | [slides](slides/04-ranking.pdf) / [video (old)](https://www.youtube.com/watch?v=b1JanvFBlWU)  / [exercise](exercise/04-ranking-exercise.pdf) / [Beispiel](exercise/04-ranking-vektor.pdf) |
 | 2022-04-28 | 05-Indexierung                                    | [slides](slides/05-index.pdf) / [video (old)](https://youtu.be/GdU5SN7q0G0) / [exercise](exercise/05-index-exercise.pdf)  |
 | 2022-05-05 | 06-Evaluierung                                    | [slides](slides/06-evaluation.pdf) / [video (old)](https://youtu.be/DDfa685DFfw) / [exercise](exercise/06-evaluation-exercise.pdf)  |
+| 2022-06-02 | 08-Query Expansion                                | [slides](slides/08-queryexpansion.pdf) / [video (old)](https://youtu.be/4KMtwZ98vmA) |
