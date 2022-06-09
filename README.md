@@ -24,4 +24,4 @@ Sollten Sie Fehler finden, informieren Sie mich bitte umgehend, indem Sie z.B. e
 | 2022-04-28 | 05-Indexierung                                    | [slides](slides/05-index.pdf) / [video (old)](https://youtu.be/GdU5SN7q0G0) / [exercise](exercise/05-index-exercise.pdf)  |
 | 2022-05-05 | 06-Evaluierung                                    | [slides](slides/06-evaluation.pdf) / [video (old)](https://youtu.be/DDfa685DFfw) / [exercise](exercise/06-evaluation-exercise.pdf)  |
 | 2022-06-02 | 08-Query Expansion                                | [slides](slides/08-queryexpansion.pdf) / [video (old)](https://youtu.be/4KMtwZ98vmA) / [exercise](exercise/08-queryexpansion-exercise.pdf)  |
-| 2022-06-09 | 09-Web Search                                     | [slides](slides/09-websearch.pdf) / [video (old)](https://youtu.be/X_ltN9j1nH0) |
+| 2022-06-09 | 09-Web Search                                     | [slides](slides/09-websearch.pdf) / [video (old)](https://youtu.be/X_ltN9j1nH0) / [exercise](exercise/09-websearch-exercise.pdf)  |
